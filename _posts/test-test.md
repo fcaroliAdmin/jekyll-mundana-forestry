@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- Tutorial
 title: TEST TEST
 author: Francesco Caroli
 image: "/assets/images/home.jpg"
